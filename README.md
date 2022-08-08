@@ -3,10 +3,6 @@ A web application to visualize various pathfinding algorithms on a Grid
 
 Check the website here :- https://pathfinding-visualizer-iitg.herokuapp.com/
 
-## Screenshots
-<img src="./p2.png" width="800">
-<img src="./p1.png" width="800">
-
 ## Installation
 ### Cloning the repository:
 Clone the repository using git clone https://github.com/hsureka/pathfinding-visualizer.git
@@ -50,6 +46,4 @@ After visualization you can reposition start and end node as you want and add an
 ## Developers
 ### This Project was built by
 
-- [Harshit Sureka](https://github.com/hsureka)
-- [Kartik Verma](https://github.com/kartikverma044)
-- [Vineet Agarwal](https://github.com/vineet140502)
+-Shusovan Sarkar
