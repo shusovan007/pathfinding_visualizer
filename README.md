@@ -1,11 +1,4 @@
-# Algorithm-Visualizer
-A web application to visualize various pathfinding algorithms on a Grid
 
-Check the website here :- https://pathfinding-visualizer-iitg.herokuapp.com/
-
-## Installation
-### Cloning the repository:
-Clone the repository using git clone https://github.com/hsureka/pathfinding-visualizer.git
 ### Installing dependencies:
 Run `npm install`
 ### Starting the server:
